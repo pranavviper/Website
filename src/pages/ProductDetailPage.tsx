@@ -179,7 +179,7 @@ const ProductDetailPage: React.FC = () => {
                   { label: "Eco-Friendly", value: "Yes" },
                   { label: "Biodegradable", value: "Yes" },
                   { label: "Cruelty-Free", value: "Yes" },
-                  { label: "Made in", value: "USA" }
+                  { label: "Made in", value: "INDIA" }
                 ].map((detail, index) => (
                   <div key={index} className="flex justify-between border-b border-gray-200 py-2">
                     <span className="text-gray-600">{detail.label}</span>
