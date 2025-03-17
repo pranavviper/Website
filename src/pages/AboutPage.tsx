@@ -31,13 +31,19 @@ const AboutPage: React.FC = () => {
           >
             <h2 className="text-3xl font-bold text-gray-800 mb-4">Our Story</h2>
             <p className="text-gray-700 mb-4">
-              Clean House was founded in 2018 by a team of environmental scientists and homemakers who were concerned about the harsh chemicals found in conventional cleaning products.
+              At Phoenix Enterprises, we are dedicated to delivering innovative, high-quality solutions across various industries. With a strong foundation in research, development, and manufacturing, we specialize in premium formulations for household, automotive, and industrial applications.
             </p>
             <p className="text-gray-700 mb-4">
-              We set out to create effective cleaning solutions that wouldn't compromise on safety for families or the environment. After years of research and development, we launched our first line of eco-friendly products.
+              Our journey began with a vision—to redefine industry standards through superior product performance, sustainability, and customer-centric solutions. Over the years, we have built a reputation for reliability, consistency, and continuous innovation, ensuring our products meet the highest quality benchmarks.
             </p>
             <p className="text-gray-700">
-              Today, Clean House is proud to offer a complete range of household cleaning products that are powerful on dirt but gentle on the planet. Our formulas are biodegradable, our packaging is recyclable, and our commitment to sustainability guides everything we do.
+              Under our registered brand, RITS, we take pride in offering a diverse range of formulations, including advanced cleaning agents, specialty chemicals, and protective coatings. Every product is meticulously developed to ensure efficiency, safety, and long-term benefits.
+            </p>
+            <p className="text-gray-700">
+              At Phoenix Enterprises, innovation is at the core of everything we do. Our expert team continually explores new technologies and cutting-edge formulations to meet evolving market demands while upholding our commitment to quality and environmental responsibility.
+           </p>
+            <p className="text-gray-700">
+              Partner with us for advanced solutions that set new industry benchmarks. Phoenix Enterprises—where innovation meets excellence.
             </p>
           </motion.div>
           
