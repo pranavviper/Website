@@ -4,7 +4,7 @@ export const products: Product[] = [
   {
     id: 1,
     name: "Air Fresher",
-    description: "A versatile, eco-friendly cleaner that works on multiple surfaces. Made with plant-based ingredients that effectively remove dirt, grease, and grime without harsh chemicals. Safe for use around children and pets.",
+    description:"'Powerful Clean, Lasting Shine.'Our Floor Cleaner is specially formulated to remove tough stains, dirt, and grime while leaving a refreshing fragrance and a streak-free shine. Safe for various surfaces, it ensures deep cleaning and long-lasting freshness, making your floors look spotless and new.",
     price: 12.99,
     image: "src/img/Airfresher.png",
     category: "all-purpose",
@@ -70,7 +70,7 @@ export const products: Product[] = [
   {
     id: 7,
     name: "Floor Cleaner",
-    description: "Restore the shine to stainless steel appliances and surfaces. Removes fingerprints, water spots, and smudges while leaving a protective coating that resists future marks.",
+    description: "'Powerful Clean, Lasting Shine.'Our Floor Cleaner is specially formulated to remove tough stains, dirt, and grime while leaving a refreshing fragrance and a streak-free shine. Safe for various surfaces, it ensures deep cleaning and long-lasting freshness, making your floors look spotless and new.",
     price: 10.99,
     image:"src/img/Floorcleaner.png",
     category: "floor",
